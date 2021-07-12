@@ -1,0 +1,24 @@
+.currentDate {
+  margin: 0.12445550715619166vw;
+  padding: 0.12445550715619166vw;
+  display: flex;
+  outline-style: dotted;
+  outline-width: thin;
+  outline-color: grey;
+  width: 100%;
+  justify-content: space-between;
+  text-transform: initial;
+  text-shadow: royalblue;
+  text-decoration-line: underline;
+  cursor: wait;
+  font-family: monospace;
+  font-weight: bolder;
+  /* 
+  animation-name: dateAni;
+  animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+  animation-duration: 10s;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
+  */
+}
